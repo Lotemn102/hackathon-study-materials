@@ -13,8 +13,7 @@ Check out this [document](https://docs.google.com/document/d/1RxCS-wx9j4AybgooKc
 ## Getting started with GitHub
 Check out this [document](https://docs.google.com/document/d/1LL1H_6PYQ9vpNBEGmMTp05Dhw7QgZAs5D-MkcC9N9hY/edit?usp=sharing).
 
-After you've read it, feel free to use this repoistory for testing.
-
+After you've read it, feel free to use this repoistory for testing.<br/>
 I've uploaded here some empty react native app. Try to:
 - Create new branch.
 - Clone it to your IDE.
@@ -31,8 +30,6 @@ Take a look on the "Issues" tabs in this repo:
   <img width="614" alt="image" src="https://user-images.githubusercontent.com/35609587/97493961-6108dd80-196e-11eb-96d8-e8e9cdc4e50b.PNG">
 </p>
 
-I've added some issues for example. 
-
-We'll be working in that way for splitting the work between us, and keeping track on the project general progress.
-
+I've added some issues for example. <br/>
+We'll be working in that way for splitting the work between us, and keeping track on the project's general progress. <br/>
 You can try to assign yourself to one of the task, and even work on them if you'd like...
