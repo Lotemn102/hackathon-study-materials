@@ -11,7 +11,7 @@ Check out this [document](https://docs.google.com/document/d/1RxCS-wx9j4AybgooKc
 
 
 ## Getting started with GitHub
-Check out this [document]().
+Check out this [document](https://docs.google.com/document/d/1LL1H_6PYQ9vpNBEGmMTp05Dhw7QgZAs5D-MkcC9N9hY/edit?usp=sharing).
 
 After you've read it, feel free to use this repoistory for testing.
 I've uploaded here some empty react native app. Try to:
