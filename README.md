@@ -22,6 +22,7 @@ I've uploaded here some empty react native app. Try to:
 
 ## GitHub Issues
 Take a look on the "Issues" tabs in this repo:
+
 <img width="614" alt="image" src="https://user-images.githubusercontent.com/35609587/97493961-6108dd80-196e-11eb-96d8-e8e9cdc4e50b.PNG">
 
 I've added some issues for example. We'll be working in that way for splitting the work between us, and keep track on the project general progress.
