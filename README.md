@@ -32,4 +32,4 @@ Take a look on the "Issues" tabs in this repo:
 
 I've added some issues for example. <br/>
 We'll be working in that way for splitting the work between us, and keeping track on the project's general progress. <br/>
-You can try to assign yourself to one of the task, and even work on them if you'd like...
+These issues are סתם for example. You can try to assign yourself to one of them just to get familiar with it.
