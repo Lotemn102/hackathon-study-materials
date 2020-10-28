@@ -13,8 +13,8 @@ Check out this [document](https://docs.google.com/document/d/1RxCS-wx9j4AybgooKc
 ## Getting started with GitHub
 Check out this [document](https://docs.google.com/document/d/1LL1H_6PYQ9vpNBEGmMTp05Dhw7QgZAs5D-MkcC9N9hY/edit?usp=sharing).
 
-After you've read it, feel free to use this repoistory for testing.<br/>
-I've uploaded here some empty react native app. Try to:
+After you've read it, feel free to use this repository for testing.<br/>
+I've uploaded here an empty react native app. Try to:
 - Create new branch.
 - Clone it to your IDE.
 - Make some changes in the code.
